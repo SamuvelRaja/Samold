@@ -17,7 +17,7 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuvelRaja?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/samuvel-raja-10321a220/)
-- 📝 &nbsp; Checkout my [resume]
+- 📝 &nbsp; Checkout my [resume](https://raw.githubusercontent.com/SamuvelRaja/SamuvelRaja/main/assets/samjs.pdf)
 - 📚 &nbsp; When I am free, I do fishing or I will be watching some tech content on youtube
 
 <br>
