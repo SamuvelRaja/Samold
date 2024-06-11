@@ -1,10 +1,11 @@
 ## Hey 👋, I'm sam! <br>
 <a href='https://www.linkedin.com/in/samuvel-raja-10321a220/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/the_sam_js/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/twitter.svg" height='18px'/></a>
+<br>
+I'm a passionate frontend developer 🌐, with a constant itch to explore new technologies 💻 and tackle challenging problems. While I enjoy crafting beautiful UIs🎨, the true thrill comes from breathing life into them with JavaScript. Solving complex problems with elegant code brings me immense satisfaction.
 
+I'm a firm believer in knowledge sharing and love helping others unlock the power of JavaScript.  My curiosity extends beyond the surface, and I'm always eager to understand how things work under the hood 🛠️.
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/techstack.gif" width="360px"/>
