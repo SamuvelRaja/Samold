@@ -28,9 +28,9 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/react.svg"> <b>React</b></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/node.svg"> <b>Node</b></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/nextjs.svg"> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/tailwind.svg" align="left" alt="taileind" height='42px'/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/tailwind.svg" align="left" alt="tailwind" height='42px'/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/bootstrap.png" align="left" alt="bootstrap" height='42px'/>  </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/express.png" align="left" alt="express js" height='42px'/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/express.svg" align="left" alt="express js" height='42px'/> </a>
 
 
 <br>
