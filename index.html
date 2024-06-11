@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Showdown Demo</title>
+  <script src="https://cdn.jsdelivr.net/npm/showdown@1.12.1/dist/showdown.min.js"></script>
+</head>
+<body>
+  <h1>Content from README.md</h1>
+  <div id="markdown-content"></div>
+
+  <script>
+    // Fetch the content of README.md using Fetch API
+    fetch('readme.md')
+      .then(response => response.text())
+      .then(markdownText => {
+        // Create a new showdown converter instance
+        const converter = new showdown.Converter();
+
+        // Convert markdown text to HTML
+        const html = converter.makeHtml(markdownText);
+
+        // Get the container element
+        const contentDiv = document.getElementById('markdown-content');
+
+        // Set the container's innerHTML to the converted HTML
+        contentDiv.innerHTML = html;
+      })
+      .catch(error => {
+        console.error('Error fetching or converting markdown:', error);
+        // Handle errors gracefully (e.g., display an error message)
+      });
+  </script>
+</body>
+</html>
