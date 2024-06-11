@@ -12,7 +12,7 @@ I'm a firm believer in knowledge sharing and love helping others unlock the powe
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently planning working with **Gemini AI**
+- 🔭 &nbsp; I’m currently planning to work with **Gemini AI**
 - 🌱 &nbsp; I’m currently learning **three.js**; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuvelRaja?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
