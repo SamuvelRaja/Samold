@@ -1,6 +1,6 @@
 ## Hey 👋, I'm sam!
-<a href='https://www.linkedin.com/in/samuvel-raja-10321a220/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/the_sam_js/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/samuvel-raja-10321a220/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/the_sam_js/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/twitter.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -24,12 +24,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/node.svg"></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/nextjs.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/561d474902b59c7429ec22bb73e225696c27b202/assets/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/node.svg"></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/nextjs.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 
 <br>
