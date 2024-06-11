@@ -1,4 +1,4 @@
-## Hey 👋, I'm sam!
+## Hey 👋, I'm sam! <br>
 <a href='https://www.linkedin.com/in/samuvel-raja-10321a220/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/the_sam_js/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/SamuvelRaja/sam/main/assets/twitter.svg" height='18px'/></a>
 
