@@ -1,0 +1,45 @@
+---
+// src/layouts/BlogLayout.astro
+const { frontmatter } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{frontmatter.title} | A Baker's Confession</title>
+    <!-- Include your existing CSS -->
+    <link rel="stylesheet" href="/css/your-existing-styles.css">
+</head>
+<body>
+    <!-- Include your existing header or navigation -->
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/blog">Blog</a>
+        </nav>
+    </header>
+    
+    <main>
+        <article>
+            <h1>{frontmatter.title}</h1>
+            <p class="date">{new Date(frontmatter.date).toLocaleDateString()}</p>
+            {frontmatter.image && <img src={frontmatter.image} alt={frontmatter.title} />}
+            
+            <div class="content">
+                <slot />
+            </div>
+        </article>
+    </main>
+    
+    <!-- Include your existing footer -->
+    <footer>
+        <!-- Your footer content -->
+    </footer>
+    
+    <!-- Include your existing JS -->
+    <script src="/js/your-existing-scripts.js"></script>
+</body>
+</html>

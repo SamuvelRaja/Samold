@@ -1,0 +1,49 @@
+---
+// src/pages/blog/index.astro
+import { getCollection } from 'astro:content';
+const blogPosts = await getCollection('blog');
+blogPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | A Baker's Confession</title>
+    <!-- Include your existing CSS -->
+    <link rel="stylesheet" href="/css/your-existing-styles.css">
+</head>
+<body>
+    <!-- Include your existing header or navigation -->
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/blog">Blog</a>
+        </nav>
+    </header>
+    
+    <main>
+        <h1>Blog</h1>
+        <div class="blog-list">
+            {blogPosts.map(post => (
+                <article class="blog-preview">
+                    {post.data.image && <img src={post.data.image} alt={post.data.title} />}
+                    <h2><a href={`/blog/${post.slug}`}>{post.data.title}</a></h2>
+                    <p class="date">{new Date(post.data.date).toLocaleDateString()}</p>
+                    <p>{post.data.excerpt}</p>
+                    <a href={`/blog/${post.slug}`} class="read-more">Read More</a>
+                </article>
+            ))}
+        </div>
+    </main>
+    
+    <!-- Include your existing footer -->
+    <footer>
+        <!-- Your footer content -->
+    </footer>
+    
+    <!-- Include your existing JS -->
+</body>
+</html>

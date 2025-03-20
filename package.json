@@ -1,0 +1,21 @@
+{
+  "name": "astro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "cms-proxy": "netlify-cms-proxy-server"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.2.1",
+    "astro": "^5.5.3",
+    "decap-cms": "^3.6.2",
+    "decap-cms-app": "^3.6.2"
+  },
+  "devDependencies": {
+    "netlify-cms-proxy-server": "^1.3.24"
+  }
+}
